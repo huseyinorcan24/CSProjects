@@ -1,0 +1,6 @@
+C:\Users\freeb\source\repos\CSProjects\OOP1\bin\Debug\OOP1.exe
+C:\Users\freeb\source\repos\CSProjects\OOP1\bin\Debug\OOP1.pdb
+C:\Users\freeb\source\repos\CSProjects\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\freeb\source\repos\CSProjects\OOP1\obj\Debug\OOP1.exe
+C:\Users\freeb\source\repos\CSProjects\OOP1\obj\Debug\OOP1.pdb
+C:\Users\freeb\source\repos\CSProjects\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
